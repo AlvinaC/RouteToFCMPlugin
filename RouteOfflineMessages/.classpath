@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Projects/openfire_src_4_1_3"/>
+	<classpathentry kind="lib" path="lib/tinder-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/bcpg-jdk15on.jar"/>
+	<classpathentry kind="lib" path="lib/bcpkix-jdk15on.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15on.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/javax.websocket-api.jar"/>
+	<classpathentry kind="lib" path="lib/jtds.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/mysql.jar"/>
+	<classpathentry kind="lib" path="lib/npn-boot.jar"/>
+	<classpathentry kind="lib" path="lib/openfire.jar"/>
+	<classpathentry kind="lib" path="lib/postgres.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="lib/startup.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
